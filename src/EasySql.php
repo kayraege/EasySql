@@ -20,7 +20,7 @@ class EasySql
         }
     }
 
-    public function uery($sql) {
+    public function query($sql) {
         if (!$sql) {
             return new Error("SQL NEEDED!");
         }
