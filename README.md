@@ -1,6 +1,6 @@
 # EasySql
  
-### Installition
+### 1) Installition
 ```$ composer require kayega/easiersql:dev-main```
 #### then use the below code in your php file
 ```php
