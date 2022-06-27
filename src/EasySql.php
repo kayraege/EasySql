@@ -1,5 +1,7 @@
 <?php
 
+namespace KAYEGA;
+
 class EasySql
 {
     function __construct($host, $user, $pass, $db) {
