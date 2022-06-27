@@ -1,0 +1,21 @@
+{
+    "name": "kayega/easiersql",
+    "description": "This library makes your sql queries easier",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kayega\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kayraegek18",
+            "email": "karayakakayraege@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-pdo": "*"
+    }
+}
