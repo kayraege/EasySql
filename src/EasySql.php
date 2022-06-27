@@ -2,6 +2,9 @@
 
 namespace KAYEGA;
 
+use PDO;
+use PDOException;
+
 class EasySql
 {
     function __construct($host, $user, $pass, $db) {
